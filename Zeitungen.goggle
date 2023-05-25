@@ -1,0 +1,11 @@
+! name: Macroeconomics (Keynes)
+! description: eine Sammlung Macroökonomischer Blog-Webseiten, welche auf John maynard Keynes aufbauen.
+! public: false
+! author: Keynes-lobt-gesell
+! avatar: #000000
+
+! Remove results not matching any other rule
+$discard
+
+! Generic boosting
+$boost=4,site=spiegel.de
